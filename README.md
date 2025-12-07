@@ -5,5 +5,9 @@ Hey there! I'm an aspiring Frontend Developer who loves to create custom website
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-### Frameworks and Tools
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,figma,git)](https://skillicons.dev)
+### Frameworks/Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?i=daisyui)](https://github.com/syvixor/skills-icons)
+
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,postman,figma)](https://skillicons.dev)
