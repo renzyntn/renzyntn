@@ -9,5 +9,5 @@ Hey there! I'm an aspiring Frontend Developer who loves to create custom website
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 [![Skills](https://skills.syvixor.com/api/icons?i=daisyui)](https://github.com/syvixor/skills-icons)
 
-### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,postman,figma)](https://skillicons.dev)
+### Database and Development Tools
+[![My Skills](https://skillicons.dev/icons?i=supabase,git,postman,figma)](https://skillicons.dev)
