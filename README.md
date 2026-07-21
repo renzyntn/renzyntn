@@ -6,8 +6,9 @@ Hey there! I'm an aspiring Frontend Developer who loves to create custom website
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
 ### Frameworks/Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
-[![Skills](https://skills.syvixor.com/api/icons?i=daisyui)](https://github.com/syvixor/skills-icons)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,express,tailwind)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?i=shadcnui&perline=12&radius=40)](https://github.com/syvixor/skills-icons)
 
-### Database and Development Tools
+### AI, Database, and Development Tools
+[![Skills](https://skills.syvixor.com/api/icons?i=claudeai&perline=12&radius=40)](https://github.com/syvixor/skills-icons)
 [![My Skills](https://skillicons.dev/icons?i=supabase,git,postman,figma)](https://skillicons.dev)
